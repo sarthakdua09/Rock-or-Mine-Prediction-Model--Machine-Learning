@@ -1,5 +1,5 @@
 
-# 🪨 Rock or Mine Prediction Model
+# 🪨 Rock or Mine Prediction Model -- Machine Learning
 
 This project focuses on building a binary classification model that can distinguish between rocks and mines using sonar signals. The objective is to develop a machine learning pipeline that predicts the type of object based on 60 features extracted from sonar signals.
 
